@@ -1,0 +1,3 @@
+//need to use an event system
+skip instruction for non-first games
+add to itch.io(?)
